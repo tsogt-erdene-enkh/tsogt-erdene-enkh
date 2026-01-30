@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on [Lua Manifest Generator](https://github.com/tsogt-erdene-enkh/tsogt-erdene-enkh.github.io)
+- 🔭 I’m currently working on nothing.
 - 🌱 I’m currently learning Python
 - 🤔 I’m looking for help with Python
 - 📫 How to reach me: N/A
