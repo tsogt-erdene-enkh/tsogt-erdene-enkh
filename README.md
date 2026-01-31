@@ -7,8 +7,6 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on nothing.
-- 🌱 I’m currently learning JavaScript
-- 🤔 I’m looking for help with JavaScript
-- 📫 How to reach me: N/A
-- 😄 Pronouns: he/him
+- 🌱 I’m currently learning JavaScript.
+- 🤔 I’m looking for help with JavaScript.
 
